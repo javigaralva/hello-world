@@ -27,8 +27,8 @@
     {
       "name": "TestBpmBookings",
       "type": "Microservice",
-      "x": 109,
-      "y": 329
+      "x": 120,
+      "y": 340
     }
   ],
   "references": [
